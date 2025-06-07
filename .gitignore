@@ -1,0 +1,24 @@
+.vscode
+models
+
+# Unnecessary files
+.DS_Store
+__pycache__
+
+# Ignore everything in the data directory
+data/*
+# Except for the .gitkeep file
+!data/.gitkeep
+.pdf
+
+# Ignore everything in the hf_models_cache directory
+hf_models_cache/*
+!hf_models_cache/.gitkeep
+
+# Ignore training logs
+supervised_models/multimodal_model/training_logs/*
+!supervised_models/multimodal_model/training_logs/.gitkeep
+supervised_models/tabular_model/training_logs/*
+!supervised_models/tabular_model/training_logs/.gitkeep
+supervised_models/finetuned_xlmr/logs/*
+!supervised_models/finetuned_xlmr/logs/.gitkeep
