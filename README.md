@@ -7,7 +7,7 @@ This repository is developed for the "Enhancing Munich Traffic Accident Classifi
 
 This project resulted in a paper accepted at ECML PKDD 2025 and presented in Porto, Portugal.
 
-**Paper:** [Title of the Paper](https://arxiv.org/abs/2506.12092)
+**Paper:** [Enhancing Traffic Accident Classifications: Application of NLP Methods for City Safety](https://arxiv.org/abs/2506.12092)
 
 ## Installment & File structure
 The Python version used in this repo is `3.11.5`.
